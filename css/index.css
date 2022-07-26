@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+}
+:root{
+    --spread:flex;
+    --distance:space-between;
+    --fit-content:7%
+}
+body{
+    overflow-y: hidden;
+}
+h1{
+    color: #560c75;
+}
+h4{
+    font-family: 'Ibarra Real Nova', serif;
+    color: rgb(132, 127, 127)
+}
+nav ,.nav-items{
+
+    display: var(--spread);
+    justify-content: var(--distance);
+    padding-left: var(--fit-content);
+    padding-right: var(--fit-content);
+    padding-top: 1rem;
+    color: #560c75;
+    font-weight: bolder;
+
+}
+
+.nav-item{
+    margin: 12px;
+}
+
+.intro-section{
+  display: var(--spread);
+  justify-content: var(--distance);
+  padding-left: var(--fit-content);
+}
+.imgs-div{
+    background-image: url('../images/backcover.svg');
+    background-size: cover;
+    position: relative;
+    bottom: 3.9rem;
+
+}
+.left-section{
+    position: relative;
+    top: 7rem;
+}
+button{
+    background: linear-gradient(to right, rgb(84, 23, 117) , #cb13c2);
+    border-radius: 15px;
+    padding: 10px 30px;
+    margin: 4px 7px;  
+    color: #fff;
+    font-size: 1rem;
+    font-weight: bold;
+}
