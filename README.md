@@ -6,7 +6,7 @@ Hear's LIVE
 
 ![Project-8](https://img.shields.io/static/v1?label=Project-8&message=Hitesh-Sir&color=ff69b4)
 
-[GO LIVE](https://shields.io/)
+[GO LIVE](https://ineuron-web-designing.netlify.app/)
 
 ![completeWebsite](./images/8.png)
 ***
