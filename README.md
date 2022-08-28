@@ -1,22 +1,34 @@
-## Project 8 HTML And CSS
-
+## Assignment-8 HTML And CSS
 by **saurabh**
 
-Hear's LIVE
+![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
+![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--8--lightgrey)
+![Project 5](https://img.shields.io/badge/Project-8-ff69b4)
 
-![Project-8](https://img.shields.io/static/v1?label=Project-8&message=Hitesh-Sir&color=ff69b4)
+![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
 
-[GO LIVE](https://ineuron-web-designing.netlify.app/)
+![HTML & CSS-Assighnment-project](https://img.shields.io/badge/Responsive-Ineuron--Assignment-blue)
+
+# [GO LIVE](https://ineuron-web-designing.netlify.app/)
 
 ![completeWebsite](./images/8.png)
 ***
+ ## Technologies used
 
-## What I  Learned From This Project ?
+> HTML
 
-- First And Four Most I Learned **Navbar**, **Background Images**
-- Nd also How to use **Google Font**
-How To Design Button In a beutiful Manner
+> CSS  
+---
+
+## **Skill Gained in the project**
+- I learned how to add background images and put some images on it.
+-  I Learned **Pseudo Selector**, **Positioning**, **Google Font**.
+- I also learned **@mediaQuerry**.
 
 ***
+# Time taken to finish this project
 
-### This Project Took Around **2.45 Hour** to complete
+  - **2:50 Hour** to complete it.
+  -  **2 Hour** to make it Responive.
+
+---

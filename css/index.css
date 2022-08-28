@@ -1,23 +1,25 @@
+/** @format */
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
+
 :root {
-  --spread: flex;
-  --distance: space-between;
   --fit-content: 7%;
 }
+
 body {
   overflow-y: hidden;
 }
-@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;600&family=Open+Sans&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;600&family=Open+Sans&display=swap");
 h1 {
   color: #6d3485;
   font-size: 4rem;
   letter-spacing: 3.5px;
-  font-family: 'League Spartan', sans-serif;
-font-family: 'Open Sans', sans-serif;
+  font-family: "League Spartan", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 h4 {
   font-family: "Ibarra Real Nova", serif;
@@ -26,8 +28,8 @@ h4 {
 }
 nav,
 .nav-items {
-  display: var(--spread);
-  justify-content: var(--distance);
+  display: flex;
+  justify-content: space-between;
   padding-left: var(--fit-content);
   padding-right: var(--fit-content);
   padding-top: 1rem;
@@ -41,8 +43,8 @@ nav,
 }
 
 .intro-section {
-  display: var(--spread);
-  justify-content: var(--distance);
+  display: flex;
+  justify-content: space-between;
   padding-left: var(--fit-content);
 }
 .imgs-div {
